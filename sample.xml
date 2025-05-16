@@ -1,0 +1,13 @@
+<rss version="2.0">
+  <channel>
+    <title>Новости Технологий</title>
+    <link>https://example.com</link>
+    <description>Последние технологические новости</description>
+    <item>
+      <title>Новый смартфон от XYZ</title>
+      <link>https://example.com/article1</link>
+      <pubDate>Mon, 01 May 2025 10:00:00 +0000</pubDate>
+      <description>Компания XYZ представила...</description>
+    </item>
+  </channel>
+</rss>
